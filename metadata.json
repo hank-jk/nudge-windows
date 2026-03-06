@@ -1,0 +1,13 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Id": "nudge-windows",
+        "Name": "Nudge Windows",
+        "Description": "Nudge-move and nudge-resize the active window with keyboard shortcuts",
+        "Version": "1.0",
+        "License": "MIT"
+    },
+    "X-KDE-PluginKeyword": "nudge-windows",
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js"
+}
